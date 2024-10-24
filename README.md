@@ -48,4 +48,6 @@ Contras:
 > Instalar Medusa.js
     ![alt text](image.png)
     - usando create-medusa-app
-    
+
+> Tareas de instalación
+![alt text](image-1.png)
